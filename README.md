@@ -8,9 +8,9 @@ Each day contains:
 - Notes (README.md)
 - Practice Programs
 - Problem Solutions
-- 
-## Progress ("✔️" denotes the completion status)
-* [✔️] Day 1 - Java Introduction
+  
+## Progress ("✓" denotes the completion status)
+* [x] Day 1 - Java Introduction
 * [ ] Day 2 - Variables & Data Types
 * [ ] Day 3 - Operators
 * [ ] Day 4 - User Input (Scanner)
