@@ -14,7 +14,7 @@
   - Automatic Memory Management (Garbage Collection)
 
 ## JDK, JRE and JVM
-- Java Developement Kit (JDK) is a package that contains the evrything required for develope,compile and run a Java Program.
+- Java Developement Kit (JDK) is a package that contains evrything, required for develope,compile and run a Java Program.
 - JDK contains JRE (Java Runtime Environment) and other tools required for developement.
 - Inside JRE, Java Virtual Machine (JVM) and Java Libraries are present.
 - JVM executes Java bytecode and converts it into machine code that the operating system can understand.
