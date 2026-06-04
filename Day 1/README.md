@@ -4,7 +4,6 @@
 - Java is High Level Programming Language developed by James Gosling and his Team in 1990 at Sun Microsystems.
 - Java is developed from C/C++ but has more features than C/C++.
 - Java is widely known for its:
-
   - Robustness
   - Security
   - Platform Independence (Write Once, Run Anywhere)
