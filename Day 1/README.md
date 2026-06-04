@@ -3,15 +3,16 @@
 ## About Java.
 - Java is High Level Programming Language developed by James Gosling and his Team in 1990 at Sun Microsystems.
 - Java is developed from C/C++ but has more features than C/C++.
-- Java is widely known for its
- - Robustness
- - Security
- - Platform Independency(Write Once, Run Anywhere)
- - Object-Oriented Programming (OOPs)
- - Portability
- - Multithreading
- - High Performance (through JVM optimizations)
- - Automatic Memory Management (Garbage Collection)
+- Java is widely known for its:
+
+  - Robustness
+  - Security
+  - Platform Independence (Write Once, Run Anywhere)
+  - Object-Oriented Programming (OOPs)
+  - Portability
+  - Multithreading
+  - High Performance (through JVM optimizations)
+  - Automatic Memory Management (Garbage Collection)
 
 ## JDK, JRE and JVM
 - Java Developement Kit (JDK) is a package that contains the evrything required for develope,compile and run a Java Program.
