@@ -12,8 +12,8 @@ Each day contains:
 ## Progress ("✓" denotes the completion status)
 * [x] Day 1 - Java Introduction
 * [x] Day 2 - Variables & Data Types
-* [ ] Day 3 - Operators
-* [ ] Day 4 - User Input (Scanner)
+* [x] Day 3 - Operators
+* [x] Day 4 - User Input (Scanner)
 * [ ] Day 5 - Conditional Statements
 * [ ] Day 6 - Switch Statement
 * [ ] Day 7 - Loops
