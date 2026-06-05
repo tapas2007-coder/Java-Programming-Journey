@@ -12,13 +12,14 @@
     - Ternary Operator
 # 1.Arithmetic Operators
 - It is used for mathematical operations.
-| Operator | Meaning             | Example |
-| -------- | ------------------- | ------- |
-| +        | Addition            | a + b   |
-| -        | Subtraction         | a - b   |
-| *        | Multiplication      | a * b   |
-| /        | Division            | a / b   |
-| %        | Modulus (remainder) | a % b   |
+
+| Operator | Description | Example |
+|----------|-------------|---------|
+| + | Addition | a + b |
+| - | Subtraction | a - b |
+| * | Multiplication | a * b |
+| / | Division | a / b |
+| % | Modulus (Remainder) | a % b |
 
 
 # 2.Relational Operators
