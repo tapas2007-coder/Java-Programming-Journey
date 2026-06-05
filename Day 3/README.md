@@ -12,7 +12,7 @@
     - Ternary Operator
 # 1.Arithmetic Operators
 - It is used for mathematical operations.
-- | Operator | Meaning             | Example |
+ | Operator | Meaning             | Example |
 | -------- | ------------------- | ------- |
 | +        | Addition            | a + b   |
 | -        | Subtraction         | a - b   |
@@ -22,7 +22,7 @@
 
 # 2.Relational Operators
 - It is used to compare values and returns true/false
-- | Operator | Meaning          |
+ | Operator | Meaning          |
 | -------- | ---------------- |
 | ==       | equal            |
 | !=       | not equal        |
@@ -33,7 +33,7 @@
 
 # 3.Logical Operators
 - It is used to combine conditions.
-- | Operator | Meaning |   |    |
+  | Operator | Meaning |   |    |
 | -------- | ------- | - | -- |
 | &&       | AND     |   |    |
 |          |         |   | OR |
@@ -41,7 +41,7 @@
 
 # 4.Assignment Operators
 - It is used to assign values.
-- | Operator | Example |
+ | Operator | Example |
 | -------- | ------- |
 | =        | a = 10  |
 | +=       | a += 5  |
@@ -51,7 +51,7 @@
 | %=       | a %= 5  |
 
 # 5.Unary Operators
-- It operates on single value.
+ It operates on single value.
 - | Operator | Meaning   |
 | -------- | --------- |
 | ++       | increment |
@@ -61,7 +61,7 @@
 
 # 6.Ternary Operator
 -It is the short form of if-else. 
-- ```
+ ```
   int a = 10, b = 20;
   int max = (a > b) ? a : b;
   System.out.println(max);
