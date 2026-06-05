@@ -41,7 +41,7 @@
 | Operator | Description | Example |
 |----------|-------------|---------|
 | && | Logical AND | (a > b && b > c) |
-| || | Logical OR | (a > b || b > c) |
+| \|\| | Logical OR | (a > b \|\| b > c) |
 | ! | Logical NOT | !(a > b) |
 
 # 4.Assignment Operators
@@ -77,10 +77,10 @@
 
 | Operator | Description | Example |
 |----------|-------------|---------|
-| & | AND | a & b |
-| | | OR | a | b |
-| ^ | XOR | a ^ b |
-| ~ | NOT | ~a |
+| & | Bitwise AND | a & b |
+| \| | Bitwise OR | a \| b |
+| ^ | Bitwise XOR | a ^ b |
+| ~ | Bitwise NOT | ~a |
 | << | Left shift | a << 2 |
 | >> | Right shift | a >> 2 |
 
