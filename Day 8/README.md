@@ -1,4 +1,4 @@
-# Day 8 - Loop
+# Day 7 - Loop
 # What is a Loop?
 - A loop is used to execute a block of code repeatedly until a specified condition becomes false.
 - Instead of writing the same code multiple times, loops help automate repetitive tasks.
