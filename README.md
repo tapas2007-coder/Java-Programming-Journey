@@ -14,29 +14,29 @@ Each day contains:
 * [x] Day 2 - Variables & Data Types
 * [x] Day 3 - Operators
 * [x] Day 4 - User Input (Scanner)
-* [ ] Day 5 - Conditional Statements
-* [ ] Day 6 - Switch Statement
-* [ ] Day 7 - Loops
-* [ ] Day 8 - Pattern Printing
-* [ ] Day 9 - Nested Loops
-* [ ] Day 10 - Arrays Basics
-* [ ] Day 11 - Array Problems
-* [ ] Day 12 - Strings Basics
-* [ ] Day 13 - Methods
-* [ ] Day 14 - Method Overloading
-* [ ] Day 15 - Classes & Objects
-* [ ] Day 16 - Constructors
-* [ ] Day 17 - Encapsulation
-* [ ] Day 18 - Inheritance
-* [ ] Day 19 - Polymorphism
-* [ ] Day 20 - Abstraction
-* [ ] Day 21 - Interfaces
+* [x] Day 5 - Conditional Statements
+* [x] Day 6 - Switch Statement
+* [x] Day 7 - Loops
+* [x] Day 8 - Pattern Printing
+* [ ] Day 9 - Arrays Basics
+* [ ] Day 10 - Array Problems
+* [ ] Day 11 - Strings Basics
+* [ ] Day 12 - Methods
+* [ ] Day 13 - Method Overloading
+* [ ] Day 14 - Classes & Objects
+* [ ] Day 15 - Constructors
+* [ ] Day 16 - Encapsulation
+* [ ] Day 17 - Inheritance
+* [ ] Day 18 - Polymorphism
+* [ ] Day 19 - Abstraction
+* [ ] Day 20 - Interfaces
+* [ ] Day 21 - Multithreading
 * [ ] Day 22 - Exception Handling
 * [ ] Day 23 - File Handling
 * [ ] Day 24 - ArrayList
 * [ ] Day 25 - Collections Framework
 * [ ] Day 26 - HashMap
-* [ ] Day 27 - Mini Project: Calculator
+* [ ] Day 27 - Java8 Features
 * [ ] Day 28 - Mini Project: Student Management System
 * [ ] Day 29 - Mini Project: Library Management System
 * [ ] Day 30 - Final Review & Repository Cleanup
