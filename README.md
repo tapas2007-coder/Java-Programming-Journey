@@ -20,9 +20,9 @@ Each day contains:
 * [x] Day 8 - Pattern Printing
 * [ ] Day 9 - Arrays Basics
 * [ ] Day 10 - Array Problems
-* [ ] Day 11 - Strings Basics
+* [ ] Day 11 - Strings 
 * [ ] Day 12 - Methods
-* [ ] Day 13 - Method Overloading
+* [ ] Day 13 - Method Overloading & Overriding
 * [ ] Day 14 - Classes & Objects
 * [ ] Day 15 - Constructors
 * [ ] Day 16 - Encapsulation
