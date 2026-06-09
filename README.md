@@ -18,10 +18,10 @@ Each day contains:
 * [x] Day 6 - Switch Statement
 * [x] Day 7 - Loops
 * [x] Day 8 - Pattern Printing
-* [ ] Day 9 - Arrays Basics
-* [ ] Day 10 - Array Problems
-* [ ] Day 11 - Strings 
-* [ ] Day 12 - Methods
+* [x] Day 9 - Arrays
+* [x] Day 10 - Multidimensional Array
+* [x] Day 11 - Strings 
+* [x] Day 12 - Methods
 * [ ] Day 13 - Method Overloading & Overriding
 * [ ] Day 14 - Classes & Objects
 * [ ] Day 15 - Constructors
